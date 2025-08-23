@@ -60,4 +60,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  19 August 2025
+
+
+Update:  Saturday 23 August 2025 The link is responsive and live again.
